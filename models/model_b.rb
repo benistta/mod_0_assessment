@@ -3,8 +3,8 @@ vehicle = {
   "category" => 'compact',
   "year" => 2022,
   "rating" => 9.5,
-  "good_appearance" => true,
-  "fast" => false,
-  "highs" => ['upscale', 'comfortable'],
-  "lows" => ['expensive', 'small']
+  "has_good_appearance" => true,
+  "is_fast" => false,
+  "good_features" => ['upscale', 'comfortable'],
+  "bad_features" => ['expensive', 'small']
 }
